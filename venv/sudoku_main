@@ -1,0 +1,12 @@
+import pygame
+
+pygame.init()
+
+x = 6
+print(x)
+print(x)
+print(x)
+
+def main():
+    temp = 10
+    print(temp)
